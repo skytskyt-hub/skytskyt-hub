@@ -1,4 +1,7 @@
-## Hi there 👋
+# Emilie: Industrious data dork 🤓
+## Non-Profit Systems/Database Administrator & Fundraising Analyst 
+### I'm interested in pivoting to a more analytics-focused career. 
+To see a glimpse into how I think and process information, please peruse the projects below.
 
 <!--
 **skytskyt-hub/skytskyt-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
